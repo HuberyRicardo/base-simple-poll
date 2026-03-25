@@ -36,11 +36,12 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <meta name="base:app_id" content="69c249c83c2c56b9bbd2f622" />
-        <meta name="base:builder_code" content="308187020100301306072a8648ce3d020106082a8648ce3d030107046d306b0201010420b73e991b" />
+        <meta name="base:builder_code" content="bc_5wng6b7v" />
         <meta name="talentapp:project_verification" content="e82d61f8afe6d3796d3dbae7495e04d57ce869bffa5da6f239a96556bab3c822a22620f84869cdc2e0a9bcd9a6cc4bc0455ec3aeacba2cf06dadfda5f7186fbf" />
       </head>
       <body className="antialiased">{children}</body>
     </html>
   );
 }
+
 
