@@ -36,6 +36,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <meta name="base:app_id" content="69c249c83c2c56b9bbd2f622" />
+        <meta name="base:builder_code" content="PLACEHOLDER_BUILDER_CODE" />
         <meta name="talentapp:project_verification" content="e82d61f8afe6d3796d3dbae7495e04d57ce869bffa5da6f239a96556bab3c822a22620f84869cdc2e0a9bcd9a6cc4bc0455ec3aeacba2cf06dadfda5f7186fbf" />
       </head>
       <body className="antialiased">{children}</body>
