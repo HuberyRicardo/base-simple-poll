@@ -101,3 +101,11 @@ The exact project structure depends on the files currently present in the reposi
 As the project evolves, consider documenting important paths here, such as:
 
 - Source code directory
+- Application entry point
+- Configuration files
+- Static assets
+- Test files
+- Build output directory
+- Documentation files
+
+Keeping this section up to date will make the repository easier to understand and maintain.
