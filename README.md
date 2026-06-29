@@ -92,3 +92,12 @@ Only use commands that are actually defined in the project files.
 5. Run the project locally, if a run command is available.
 6. Make changes in small, focused commits.
 7. Test the behavior after each meaningful change.
+8. Update this README as the project becomes more clearly defined.
+
+## Project Structure
+
+The exact project structure depends on the files currently present in the repository.
+
+As the project evolves, consider documenting important paths here, such as:
+
+- Source code directory
