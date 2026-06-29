@@ -157,3 +157,12 @@ Before submitting changes, consider the following checklist:
 - Existing behavior is not broken.
 - New behavior is documented where appropriate.
 - Commands in this README remain accurate.
+- Changes are committed with clear messages.
+
+## Maintenance Notes
+
+- Keep setup instructions aligned with the actual files in the repository.
+- Remove placeholder guidance once specific commands are known.
+- Prefer reproducible commands over vague descriptions.
+- Document important decisions as the project evolves.
+- Keep examples simple and relevant to the poll workflow.
