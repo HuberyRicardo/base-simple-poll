@@ -73,3 +73,12 @@ npm run
 ```
 
 Then run the appropriate command for development or execution.
+
+Common command names may include:
+
+- `start`
+- `dev`
+- `build`
+- `test`
+
+Only use commands that are actually defined in the project files.
