@@ -17,3 +17,12 @@ Use this repository as a base for learning, prototyping, or adding custom pollin
 - Simple foundation for a basic poll project.
 - Easy to clone, inspect, and extend.
 - Suitable for experimentation and prototyping.
+- Can be adapted as the project requirements become clearer.
+- Public repository available at the URL listed above.
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/HuberyRicardo/base-simple-poll.git
