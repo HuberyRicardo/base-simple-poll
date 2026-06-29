@@ -53,3 +53,13 @@ Common project files to check include:
 If a dependency file is present, install dependencies using the appropriate tool for that ecosystem.
 
 For example, if the project includes a `package.json` file, install dependencies with:
+
+```bash
+npm install
+```
+
+If the project uses a different package manager or runtime, follow the setup instructions implied by the files in the repository.
+
+## Usage
+
+Start by reviewing the source files and available configuration.
