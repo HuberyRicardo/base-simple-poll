@@ -166,3 +166,13 @@ Before submitting changes, consider the following checklist:
 - Prefer reproducible commands over vague descriptions.
 - Document important decisions as the project evolves.
 - Keep examples simple and relevant to the poll workflow.
+
+## Troubleshooting
+
+If setup or usage does not work as expected:
+
+1. Confirm that the repository was cloned successfully.
+2. Check that you are in the `base-simple-poll` directory.
+3. Review the project files for required dependencies.
+4. Install dependencies using the appropriate package manager.
+5. Confirm that any required configuration files are present.
