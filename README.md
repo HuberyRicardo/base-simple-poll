@@ -119,3 +119,12 @@ If the project requires environment configuration, include an example file such 
 ```
 
 Document each required variable clearly, including:
+
+- Variable name
+- Purpose
+- Example value, when safe
+- Whether the value is required or optional
+
+Do not commit private, local, or machine-specific configuration files.
+
+## Testing
