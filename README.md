@@ -7,3 +7,13 @@ Repository: https://github.com/HuberyRicardo/base-simple-poll.git
 ## Overview
 
 This project is intended to provide a simple foundation for a poll-related application or example.
+
+The original project description is minimal, so this README focuses on practical guidance for cloning the repository, reviewing the project structure, setting up dependencies, and using the code as a starting point for further development.
+
+Use this repository as a base for learning, prototyping, or adding custom polling behavior.
+
+## Features
+
+- Simple foundation for a basic poll project.
+- Easy to clone, inspect, and extend.
+- Suitable for experimentation and prototyping.
