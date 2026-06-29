@@ -128,3 +128,13 @@ Document each required variable clearly, including:
 Do not commit private, local, or machine-specific configuration files.
 
 ## Testing
+
+If tests are included in the project, document the exact command needed to run them.
+
+For example, if the project uses npm and defines a test script, the command may be:
+
+```bash
+npm test
+```
+
+If no tests are currently available, consider adding tests as the project grows.
