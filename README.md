@@ -109,3 +109,13 @@ As the project evolves, consider documenting important paths here, such as:
 - Documentation files
 
 Keeping this section up to date will make the repository easier to understand and maintain.
+
+## Configuration
+
+If the project requires environment configuration, include an example file such as:
+
+```text
+.env.example
+```
+
+Document each required variable clearly, including:
