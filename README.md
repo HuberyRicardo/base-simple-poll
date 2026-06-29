@@ -26,3 +26,12 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/HuberyRicardo/base-simple-poll.git
+```
+
+Move into the project directory:
+
+```bash
+cd base-simple-poll
+```
+
+After cloning, review the files in the project root to identify the technology stack, dependency manager, and available commands.
