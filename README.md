@@ -82,3 +82,13 @@ Common command names may include:
 - `test`
 
 Only use commands that are actually defined in the project files.
+
+## Suggested Development Workflow
+
+1. Clone the repository.
+2. Review the project structure.
+3. Identify the language, framework, and dependency manager.
+4. Install any required dependencies.
+5. Run the project locally, if a run command is available.
+6. Make changes in small, focused commits.
+7. Test the behavior after each meaningful change.
