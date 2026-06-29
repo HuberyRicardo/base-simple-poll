@@ -45,3 +45,11 @@ Common project files to check include:
 - `package.json`
 - `requirements.txt`
 - `pyproject.toml`
+- `composer.json`
+- `Makefile`
+- `.env.example`
+- Project-specific configuration files
+
+If a dependency file is present, install dependencies using the appropriate tool for that ecosystem.
+
+For example, if the project includes a `package.json` file, install dependencies with:
