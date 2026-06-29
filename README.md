@@ -148,3 +148,12 @@ Contributions can be made by creating a branch, making a focused change, and sub
 A recommended branch naming pattern is:
 
 ```bash
+git checkout -b feature/your-change
+```
+
+Before submitting changes, consider the following checklist:
+
+- The project still installs correctly.
+- Existing behavior is not broken.
+- New behavior is documented where appropriate.
+- Commands in this README remain accurate.
