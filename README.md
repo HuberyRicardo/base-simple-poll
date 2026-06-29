@@ -35,3 +35,13 @@ cd base-simple-poll
 ```
 
 After cloning, review the files in the project root to identify the technology stack, dependency manager, and available commands.
+
+## Setup
+
+The exact setup steps depend on the files included in the repository.
+
+Common project files to check include:
+
+- `package.json`
+- `requirements.txt`
+- `pyproject.toml`
