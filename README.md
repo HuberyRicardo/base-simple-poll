@@ -176,3 +176,12 @@ If setup or usage does not work as expected:
 3. Review the project files for required dependencies.
 4. Install dependencies using the appropriate package manager.
 5. Confirm that any required configuration files are present.
+6. Re-run the documented command.
+
+If an error message points to a missing dependency, configuration value, or command, update the setup instructions after resolving it.
+
+## License
+
+No license information was provided in the original README.
+
+If a license is added to the repository, document it in this section and include the appropriate license file.
