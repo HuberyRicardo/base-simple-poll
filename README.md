@@ -63,3 +63,13 @@ If the project uses a different package manager or runtime, follow the setup ins
 ## Usage
 
 Start by reviewing the source files and available configuration.
+
+If the project defines start, development, or build commands, use the commands provided by the project configuration.
+
+For example, if npm scripts are available, list them with:
+
+```bash
+npm run
+```
+
+Then run the appropriate command for development or execution.
