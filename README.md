@@ -138,3 +138,13 @@ npm test
 ```
 
 If no tests are currently available, consider adding tests as the project grows.
+
+Tests are especially useful for validating poll creation, voting behavior, result calculation, and edge cases.
+
+## Contributing
+
+Contributions can be made by creating a branch, making a focused change, and submitting it for review.
+
+A recommended branch naming pattern is:
+
+```bash
